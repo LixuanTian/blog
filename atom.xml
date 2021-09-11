@@ -1,39 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LixuanTian.github.io/blog.github.io</id>
-    <title>成长小屋</title>
-    <updated>2021-09-11T11:23:42.010Z</updated>
+    <title>Tian’s Blog</title>
+    <updated>2021-09-11T12:25:25.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://LixuanTian.github.io/blog.github.io"/>
     <link rel="self" href="https://LixuanTian.github.io/blog.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>一个小破站，一支烂笔头</subtitle>
     <logo>https://LixuanTian.github.io/blog.github.io/images/avatar.png</logo>
     <icon>https://LixuanTian.github.io/blog.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 成长小屋</rights>
-    <entry>
-        <title type="html"><![CDATA[写作测试]]></title>
-        <id>https://LixuanTian.github.io/blog.github.io/post/xie-zuo-ce-shi/</id>
-        <link href="https://LixuanTian.github.io/blog.github.io/post/xie-zuo-ce-shi/">
-        </link>
-        <updated>2021-09-11T11:17:48.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="一级标题">一级标题</h1>
-<p>正文</p>
-<h2 id="二级标题">二级标题</h2>
-<p>正文</p>
-<h3 id="三级标题">三级标题</h3>
-<p>正文<br>
-🚗<br>
-<img src="https://LixuanTian.github.io/blog.github.io/post-images/1631359125863.jpeg" alt="" loading="lazy"></p>
-]]></summary>
-        <content type="html"><![CDATA[<h1 id="一级标题">一级标题</h1>
-<p>正文</p>
-<h2 id="二级标题">二级标题</h2>
-<p>正文</p>
-<h3 id="三级标题">三级标题</h3>
-<p>正文<br>
-🚗<br>
-<img src="https://LixuanTian.github.io/blog.github.io/post-images/1631359125863.jpeg" alt="" loading="lazy"></p>
-<!-- more -->
-]]></content>
-    </entry>
+    <rights>All rights reserved 2021, Tian’s Blog</rights>
 </feed>
